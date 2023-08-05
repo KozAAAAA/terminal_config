@@ -32,7 +32,7 @@ visible-name='Regolith'
 
 [:d1099164-5230-4164-a712-197838e23d61]
 background-color='rgb(20,27,30)'
-background-transparency-percent=4
+background-transparency-percent=14
 bold-color-same-as-fg=true
 bold-is-bright=true
 cursor-colors-set=false
