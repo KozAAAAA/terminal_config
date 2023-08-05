@@ -1,0 +1,51 @@
+[/]
+default='d1099164-5230-4164-a712-197838e23d61'
+list=['d1099164-5230-4164-a712-197838e23d61']
+
+[:0a8a70dd-cb86-4a03-a1c0-c976c0ca57d5]
+audible-bell=false
+background-color='rgb(46,52,54)'
+background-transparency-percent=15
+bold-color='#3584E4'
+bold-color-same-as-fg=false
+bold-is-bright=false
+cursor-background-color='#9A9996'
+cursor-blink-mode='off'
+cursor-colors-set=true
+cursor-foreground-color='#E01B24'
+cursor-shape='block'
+default-size-columns=80
+font='Consolas NF 11.2998046875'
+foreground-color='rgb(211,215,207)'
+highlight-background-color='#9A9996'
+highlight-colors-set=true
+highlight-foreground-color='#2F2F2F'
+nord-gnome-terminal-version='0.1.0'
+palette=['#2F2F2F', '#E01B24', '#8FF0A4', '#F6D32D', '#3584E4', '#9141AC', '#95E6CB', '#B8B8B8', '#9A9996', '#E01B24', '#33D17A', '#F9F06B', '#99C1F1', '#75507B', '#5CCFE6', '#FFFFFF']
+scrollbar-policy='never'
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Regolith'
+
+[:d1099164-5230-4164-a712-197838e23d61]
+background-color='rgb(20,27,30)'
+background-transparency-percent=4
+bold-color-same-as-fg=true
+bold-is-bright=true
+cursor-colors-set=false
+cursor-shape='block'
+default-size-columns=90
+default-size-rows=22
+font='Consolas NF 11.2998046875'
+foreground-color='rgb(234,222,222)'
+highlight-colors-set=false
+palette=['rgb(45,45,45)', 'rgb(204,0,0)', 'rgb(88,181,0)', 'rgb(255,239,90)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(255,255,255)', 'rgb(142,142,142)', 'rgb(239,41,41)', 'rgb(88,181,0)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(255,255,255)']
+scrollbar-policy='never'
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='personal'
